@@ -1,2 +1,2 @@
 # NotificationApp
-Simple notifitacion for Qt Widgets Application 
+Simple notification for Qt Widgets Application 
